@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/resource">
+        <file>img/login.png</file>
+        <file>img/add.png</file>
+        <file>img/delete all.png</file>
+        <file>img/edit.png</file>
+        <file>img/logout.png</file>
+        <file>img/Professor.png</file>
+        <file>img/save.png</file>
+        <file>img/show.png</file>
+        <file>img/Student.png</file>
+        <file>img/Professor_Female.png</file>
+        <file>img/Student_Female.png</file>
+        <file>img/view.png</file>
+        <file>img/logo.png</file>
+        <file>img/print.png</file>
+        <file>img/Sort by ID.png</file>
+        <file>img/Sort by Name.png</file>
+        <file>img/display all.png</file>
+        <file>img/search-icon.png</file>
+        <file>img/choose.png</file>
+        <file>img/yes.png</file>
+        <file>img/back.png</file>
+        <file>img/log in.png</file>
+    </qresource>
+</RCC>
