@@ -1,0 +1,31 @@
+Student ID: 161110112
+Fullname  : Bonaventura Kevin Satria
+Major     : Architecture
+
+GPA: -
+
+		Course			    Score	    GradePoint
+ 1. Design I                                -   		 -   		 
+ 2. Introduction to Art and Design          -   		 -   		 
+ 3. Design II                               -   		 -   		 
+ 4. Introduction to Landscape Architecture  -   		 -   		 
+ 5. Climate Responsive Architecture         -   		 -   		 
+ 6. Architecture Construction               -   		 -   		 
+ 7. Digital Modelling and Simulation        -   		 -   		 
+ 8. Strategy for Sustainable Architecture   -   		 -   		 
+ 9. Design III                              -   		 -   		 
+10. Introduction to Architecture Practice   -   		 -   		 
+11. Environment Systems                     -   		 -   		 
+12. Advanced Architecture Study             -   		 -   		 
+13. History of Architecture                 -   		 -   		 
+14. Structural Design                       -   		 -   		 
+15. Environmental Design                    -   		 -   		 
+16. Urban Studies                           -   		 -   		 
+17. Integrated Technical Project Design     -   		 -   		 
+18. Environmental Design II                 -   		 -   		 
+19. Practice Management                     -   		 -   		 
+20. Architectural Studio                    -   		 -   		 
+21. Architectural Studio II                 -   		 -   		 
+22. Building Technology and Performance     -   		 -   		 
+
+This report is only valid with the official stamp from Springfield University of Science.

@@ -1,0 +1,33 @@
+Student ID: 163330099
+Fullname  : Hector
+Major     : Computer_Science
+
+GPA: 3.31
+
+		Course			    Score	    GradePoint
+ 1. Introduction to Computer Science        92  		 4   		 
+ 2. Calculus                                84  		 3.2 		 
+ 3. Linear Algebra                          71  		 2.3 		 
+ 4. C++ Programming (I)                     88  		 3.7 		 
+ 5. Calculus II                             75  		 2.5 		 
+ 6. Cyber Ethics                            86  		 3.5 		 
+ 7. Discrete Mathematics I                  92  		 4   		 
+ 8. C++ Programming (II)                    -   		 -   		 
+ 9. Java Programming                        -   		 -   		 
+10. Mobile Application Development          -   		 -   		 
+11. Data Structure                          -   		 -   		 
+12. Discrete Mathematics II                 -   		 -   		 
+13. Digital Design                          -   		 -   		 
+14. Artificial Intelligence                 -   		 -   		 
+15. Database                                -   		 -   		 
+16. Principle of Compiling                  -   		 -   		 
+17. Pattern Recognition                     -   		 -   		 
+18. C++ Coursework                          -   		 -   		 
+19. Data Structure Project                  -   		 -   		 
+20. Computer Networks                       -   		 -   		 
+21. Software Engineering                    -   		 -   		 
+22. Digital Logic                           -   		 -   		 
+23. Operation System                        -   		 -   		 
+24. Multimedia Technology                   -   		 -   		 
+
+This report is only valid with the official stamp from Springfield University of Science.
